@@ -1,13 +1,13 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: XanoCan | A theme for Jekyll
+email: xano.cans@gmail.com
 description: Some text about your blog.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.xanocan.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: ""
 
 # User Settings
-username: Jekflix
+username: XanoCan
 user_description: Some text about you.
 disqus_username: disqus_username
 
