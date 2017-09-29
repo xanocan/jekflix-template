@@ -9,7 +9,14 @@ google_analytics: ""
 # User Settings
 username: XanoCan
 user_description: Some text about you.
-disqus_username: xcans
+#disqus_username: xcans
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: xcans
+
+
 
 # Social Media
 # Remove the item if you don't need it
